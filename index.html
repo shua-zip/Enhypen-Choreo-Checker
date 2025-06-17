@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>enhypen: tem coreografia?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="cover">
+        <img src="enhypen group.jpg" alt="ENHYPEN Photo" class="cover-image">
+      </div>
+      <div class="title-box">
+        <h1>enhypen: tem coreografia?</h1>
+        <p>veja se a música que você pensou tem ou não tem uma coreografia...</p>
+        <p id="all-songs"><a href="https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA?si=a0dff94fb6de484c" target="_blank">123 músicas, 5hr 55min</a></p>
+
+      </div>
+    </div>
+
+<div class="search-container">
+  <button class="play-button" aria-label="Play">
+    ▶
+  </button>
+
+  <div class="search-bar">
+    <input type="text" id="inputMusica" placeholder="digite o nome da música" />
+    <button onclick="checarCoreografia()" class="search-btn" aria-label="Buscar">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M10 2a8 8 0 105.29 14.29l4.71 4.7 1.42-1.41-4.7-4.71A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+    <table class="result-table">
+      <thead>
+        <tr>
+          <th>título</th>
+          <th>tem coreografia?</th>
+          <th>vídeo</th>
+        </tr>
+      </thead>
+      <tbody id="resultado">
+        <!-- resultado da busca -->
+      </tbody>
+    </table>
+
+    <div class="footer">
+      <p>VER OUTROS ARTISTAS:  
+        <span>nct 127</span> – 
+        <span>nct dream</span> – 
+        <span>txt</span> – 
+        <span>zb1</span> – 
+        <span>aespa</span>
+      </p>
+      <p>Última atualização: junho/25 </p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

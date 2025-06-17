@@ -1,0 +1,507 @@
+[
+  { 
+    "titulo": "Intro: Walk The Line",
+    "aliases": ["intro walk the line", "intro: walk the line", "intro walktheline", "intro: walktheline"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/AoyhFtZBAz4?si=rafSL3_sWrFqWd6B&t=128",
+    "isDancePractice": false
+  },
+ { 
+    "titulo": "Given-Taken",
+    "aliases": ["given taken", "given-taken", "given or taken", "giventaken"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=CxxX6iNhx28&pp=ygULZ2l2ZW4gdGFrZW4%3D",
+    "isDancePractice": true
+  }, 
+   { 
+    "titulo": "Let Me In (20 CUBE)",
+    "aliases": ["let me in 20 cube", "let me in 20cube", "let me in 20-cube", "letmein20cube", "let me in (20 cube)", "let me in", "20 cube"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=Nd4GTxjzs00&pp=ygURbGV0IG1lIGluIGVuaHlwZW4%3D",
+    "isDancePractice": false
+  },
+     { 
+    "titulo": "10 Months", 
+    "aliases": ["10 months", "ten months", "10months", "tenmonths"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/j_GF9UPCy3g?si=nEEFkWUS3ICeQmdu",
+    "isDancePractice": false
+  },
+     { 
+    "titulo": "Flicker",
+    "aliases": ["flicker"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/9uazMxm1bmE?si=9mhMULWaW8VVhXRm",
+    "isDancePractice": false
+  },
+     { 
+    "titulo": "Outro: Cross The Line",
+    "aliases": ["outro cross the line", "outro: cross the line", "outro crosstheline", "outro: crosstheline"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  },
+   { 
+    "titulo": "Intro: The Invitation",
+    "aliases": ["intro the invitation", "intro: the invitation", "intro theinvitation", "intro: theinvitation"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  }, 
+    {
+    "titulo": "Drunk-Dazed",
+    "aliases": ["drunk-dazed", "drunk dazed", "drunkdazed"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/4-keAPArp9A?si=4d-l6HP3GQxWNPKd",
+    "isDancePractice": true
+  },
+    {
+    "titulo": "Fever",
+    "aliases": ["fever"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/Q345ZZbXGME?si=wNxvrrBIpeuWEKSQ",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Not For Sale",
+    "aliases": ["not for sale", "notforsale", "notfor sale", "not forsale"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=jDnFnopKK5U&pp=ygUMTm90IEZvciBTYWxl0gcJCbIJAYcqIYzv",
+    "isDancePractice": true
+  }, 
+  { 
+    "titulo": "Mixed Up",
+    "aliases": ["mixed up", "mixedup", "mixed up"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/-1RsRVIHza8?si=u-W1BuOmIIlsAmbd",
+    "isDancePractice": true
+  }, 
+  { 
+    "titulo": "Outro: The Wormhole",
+    "aliases": ["outro the wormhole", "outro: the wormhole", "outro thewormhole", "outro: thewormhole"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Forget Me Not",
+    "aliases": ["forget me not", "forgetmenot", "forget menot", "forgetme not"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Hey Tayo",
+    "aliases": ["hey tayo", "heytayo", "hey tayo!"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/d-ZZ32-8em4?si=zzkz2A8vJZI-u1sE",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Billy Poco",
+    "aliases": ["billy poco", "billypoco", "billy poco!"],
+    "temCoreografia": true,
+    "link": "https://youtu.be/N2WCOKkuI5E?si=DqKbQ-Qv5RYeZIMr",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Intro: Whiteout",
+    "aliases": ["intro whiteout", "intro: whiteout", "introwhiteout"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Tamed-Dashed",
+    "aliases": ["tamed-dashed", "tamed dashed", "tameddashed"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=p2HrDPdMGVk&pp=ygUMVGFtZWQtRGFzaGVk",
+    "isDancePractice": true
+  }, 
+  { 
+    "titulo": "Upper Side Dreamin’",
+    "aliases": ["upper side dreamin", "upper side dreamin'", "upper sidedreamin", "upper side dreamin", "upper side dreaming"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=EzshTEoLbcc",
+    "isDancePractice": true
+  }, 
+  { 
+    "titulo": "Just A Little Bit",
+    "aliases": ["just a little bit", "justalittlebit", "just a littlebit", "justa a little", "just little bit"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": false
+  }, 
+  { 
+    "titulo": "Go Big or Go Home",
+    "aliases": ["go big or go home", "go big or gohome", "gobigorgohome", "go big go home"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=OzcZYiUQJSs",
+    "isDancePractice": true
+  }, 
+  { 
+    "titulo": "Blockbuster (Ft. Yeonjun of TXT)",
+    "aliases": ["blockbuster ft yeonjun of txt", "blockbuster ft. yeonjun of txt", "blockbuster ft yeonjun", "blockbuster ft. yeonjun", "blockbuster"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=tNl_0nvqPyI",
+    "isDancePractice": false
+  },
+    { 
+    "titulo": "Attention, please!",
+    "aliases": ["attention please", "attention please!", "attentionplease", "attentionplease!"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=EAmQ0VVPC6w",
+    "isDancePractice": false
+  },  
+  { 
+    "titulo": "Interlude: Question",
+    "aliases": ["interlude question", "interlude: question", "interludequestion"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+    { 
+    "titulo": "Polaroid Love",
+    "aliases": ["polaroid love", "polaroidlove"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Always",
+    "aliases": ["always"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "WALK THE LINE",
+    "aliases": ["walk the line", "walktheline", "walk theline", "walkthe line"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Future Perfect (Pass the MIC)",
+    "aliases": ["future perfect", "futureperfect", "future perfect (pass the mic)", "future perfect pass the mic", "pass the mic", "passthe mic", "pass themic"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=MHqOB-S7oGE",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "ParadoXXX Invasion",
+    "aliases": ["paradoxxx invasion", "paradoxxxinvasion", "paradox invasion", "paradoxx invasion"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=6sav2WZJn_0",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "TFW (That Feeling When)",
+    "aliases": ["tfw that feeling when", "tfw (that feeling when)", "tfwthatfeelingwhen", "tfw", "that feeling when"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=HLHWJfWqbIw",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "SHOUT OUT",
+    "aliases": ["shout out", "shoutout", "shout out!"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Foreshadow",
+    "aliases": ["foreshadow","fore shadow"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "I Need the Light",
+    "aliases": ["i need the light", "ineedthelight", "i need thelight", "need the light"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "One In A Billion",
+    "aliases": ["one in a billion", "oneinabillion", "one inabillion", "1 in a billion"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=VVsS6qdlpIc",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Make The Change",
+    "aliases": ["make the change", "makethechange", "make thechange", "make change"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Fate",
+    "aliases": ["fate"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=d0WgmvTQ11E",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Bite Me",
+    "aliases": ["bite me", "biteme"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=SAsGObLZxjY",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Sacrifice (Eat Me Up)",
+    "aliases": ["sacrifice eat me up", "sacrifice (eat me up)", "sacrificeeatmeup", "sacrificeeatmeup", "sacrifice", "eat me up"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=rVNV_BtKcow",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Chaconne",
+    "aliases": ["chaconne", "chacone"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=iVfITt1GQhY",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Bills",
+    "aliases": ["bills"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=28EC2zaTJdg",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Karma",
+    "aliases": ["karma"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "One and Only",
+    "aliases": ["one and only", "oneandonly", "one andonly"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Criminal Love",
+    "aliases": ["criminal love", "criminallove"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=bDmrjyxjhRs",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "BLOSSOM",
+    "aliases": ["blossom"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Keep Swimmin’ Through",
+    "aliases": ["keep swimmin through", "keep swimmin' through", "keepswimminthrough", "keep swimming through", "keep swimming'", "keep swimming", "keep swimmin"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=cJZBYb9xolk",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Mortal",
+    "aliases": ["mortal"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Sweet Venom",
+    "aliases": ["sweet venom", "sweetvenom"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=xh8puYpkek0",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Still Monster",
+    "aliases": ["still monster", "stillmonster"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=keJuXhBPg3o",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "멀어 (Blind)",
+    "aliases": ["멀어", "blind"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Orange Flower (You Complete Me)",
+    "aliases": ["orange flower", "you complete me", "orange flower you complete me", "orangeflower", "orange flower (you complete me)", "youcompleteme"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Fatal Trouble",
+    "aliases": ["fatal trouble", "fataltrouble"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=GwnvuL3QCdE",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Teeth (by JUNGWON, HEESEUNG, SUNOO, NI-KI)",
+    "aliases": ["teeth"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=TaUAjNApp7g",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Lucifer (by JAY, JAKE, SUNGHOON)",
+    "aliases": ["lucifer"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=dTtpqa0_XiE",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Scream",
+    "aliases": ["scream"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Moonstruck",
+    "aliases": ["moonstruck", "moons truck"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=7T8yERKbXfc",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "XO (Only If You Say Yes)",
+    "aliases": ["xo only if you say yes", "xo (only if you say yes)", "xo", "only if you say yes", "xo only if you sayyes"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=DExTX2QYFVY",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Your Eyes Only",
+    "aliases": ["your eyes only", "your eyesonly", "youreyes only", "your eyes"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Hundred Broken Hearts",
+    "aliases": ["hundred broken hearts", "one hundred broken hearts", "hundredbroken hearts"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Brought The Heat Back",
+    "aliases": ["brought the heat back", "brought the heat", "i brought the heat back"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=0tNVuwPB3xc",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Paranormal",
+    "aliases": ["paranormal", "paranormal love"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Royalty",
+    "aliases": ["royalty"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Highway 1009",
+    "aliases": ["highway 1009", "highway"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Home",
+    "aliases": ["home"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Daydream",
+    "aliases": ["daydream", "day dream"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=CWBT6EnJ3U0",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "No Doubt",
+    "aliases": ["no doubt", "nodoubt"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=AkioZY59-DA",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Loose",
+    "aliases": ["loose", "lose"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=KEYAYK7MLdo",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Flashover",
+    "aliases": ["flashover"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Bad Desire (With or Without You)",
+    "aliases": ["bad desire", "bad desire with or without you", "bad desire (with or without you)", "with or without you"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=qhgYrr_3zhE",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Outside",
+    "aliases": ["outside"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Helium",
+    "aliases": ["helium"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Too Close",
+    "aliases": ["too close", "tooclose", "to close"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  },
+  { 
+    "titulo": "Chamber 5",
+    "aliases": ["chamber 5", "chamberfive", "chamber five"],
+    "temCoreografia": true,
+    "link": "https://www.youtube.com/watch?v=vtg8LQc9100",
+    "isDancePractice": false
+  },
+  { 
+    "titulo": "Demons",
+    "aliases": ["demons", "demon"],
+    "temCoreografia": false,
+    "link": "",
+    "isDancePractice": true
+  }
+
+]
